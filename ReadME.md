@@ -29,4 +29,4 @@ The right hand controls camera movement (just moving hand physically around) and
 
 FPS on my laptop was about 16 for the camera, but I could reach 50 FPS in Minecraft itself.
 
-You are welcome to use this project however you want, please just credit this page if you do.
+You are welcome to use this project however you want, please just credit this page if you do, and let me know! You can reach me at danieljoy2345@gmail.com. I'd love to see what you've come up with.
