@@ -8,7 +8,9 @@ The right hand controls camera movement (just moving hand physically around) and
 ## To run this yourself:
 
 1. Change the class on line 26 of DataCollection.py and run to get some training images. Currently the program uses classes "open" and "fist" for the left hand; "zero", "one", and "two" for the right hand. To collect data, run the program, stand wherever you want in frame, and hit "L" to take a picture, it will automatically detect your hand.
+
 - I recommend 300-400 images for each class for good results!
+- Try to wear clothing that won't get in the way of hand detection, either a short-sleeve shirt or wear sleeves that contrast to your skin tone.
 - Try to slightly vary your hand angle, distance, lighting, etc so the model gets a good understanding of how the class can look.
 - You can hit 'Q' to quit the program anytime and move on to the next class, remember to change line 26 to the next class.
 
